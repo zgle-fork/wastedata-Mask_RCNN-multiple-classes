@@ -1,3 +1,8 @@
+# zgle:
+https://github.com/SriRamGovardhanam/wastedata-Mask_RCNN-multiple-classes
+
+https://medium.com/analytics-vidhya/training-your-own-data-set-using-mask-r-cnn-for-detecting-multiple-classes-3960ada85079
+
 # wastedata-multiple-classes
 Instance segmenting more than 2 classes in an image,where image dataset is from publicly available data, for annotation we are using VGG annotator latest version
 
